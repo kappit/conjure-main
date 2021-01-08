@@ -23,8 +23,5 @@
     "psr-4": {
       "Conjure\\Main\\": ""
     }
-  },
-  "config": {
-    "vendor-dir": ""
   }
 }
