@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace Conjure\Main;
 
-
 /**
  * Class MainApp
  * @package Conjure\Main
