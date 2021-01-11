@@ -11,10 +11,14 @@ namespace Conjure\Main;
 class MainApp
 {
 
+
+    /**
+     *
+     */
     public static function main(): void
     {
 
-        echo 'hi';
+        echo 'Hello, world!';
 
     }
 
