@@ -13,8 +13,8 @@
       "email": "kasper.h90@outlook.dk"
     }
   ],
-  "minimum-stability": "stable",
-  "version": "1.0.4",
+  "minimum-stability": "dev",
+  "version": "1.0.5",
   "require": {
     "php": ">=8.0.0"
   },
