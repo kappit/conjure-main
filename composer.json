@@ -1,6 +1,6 @@
 {
   "name": "kappit/conjure-main",
-  "type": "library",
+  "type": "project",
   "description": "Main entrypoint for conjure framework",
   "keywords": [
     "framework"
@@ -14,7 +14,6 @@
     }
   ],
   "minimum-stability": "dev",
-  "version": "1.0.5",
   "require": {
     "php": ">=8.0.0"
   },
