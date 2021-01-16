@@ -11,7 +11,6 @@ namespace Conjure\Main;
 class MainApp
 {
 
-
     /**
      *
      */
