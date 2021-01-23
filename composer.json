@@ -16,7 +16,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=8.0.0",
-    "kappit/conjure-config": "1.0.*"
+    "kappit/conjure-config": "1.x-dev"
   },
   "autoload": {
     "psr-4": {
